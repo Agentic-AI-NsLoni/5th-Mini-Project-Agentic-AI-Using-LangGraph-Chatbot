@@ -2,5 +2,6 @@ langchain
 langgraph
 langchain-community
 langchainhub
-openai
 tiktoken
+ipykernel
+langchain_groq

@@ -1,0 +1,13 @@
+prefix=F:/AI Egineer/Agentic-AI/1-Agentic-AI-Using-LangGraph/venv/Library
+exec_prefix=F:/AI Egineer/Agentic-AI/1-Agentic-AI-Using-LangGraph/venv/Library
+libdir=F:/AI Egineer/Agentic-AI/1-Agentic-AI-Using-LangGraph/venv/Library/lib
+sharedlibdir=F:/AI Egineer/Agentic-AI/1-Agentic-AI-Using-LangGraph/venv/Library/lib
+includedir=F:/AI Egineer/Agentic-AI/1-Agentic-AI-Using-LangGraph/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
